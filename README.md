@@ -11,11 +11,11 @@
 
 
 #### *software engineer* - bishop & co
-2017 jun - 2020 dec ( 3years 7monts)
+2017 jun - 2020 dec ( 3y7m )
 
 
 #### *junior software engineer* - university of szeged @ department of software engineering 
-2016 jan - 2017 jun ( 1year 5month)
+2016 jan - 2017 jun ( 1y5m )
 
 
 ## contracts
