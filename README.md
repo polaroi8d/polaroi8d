@@ -1,7 +1,5 @@
 ### Hello, I'm Levente 👋
 
-![Levente Orban - profile picture](https://orbanlevi.hu/profile.png)
-
 building [@dyrectorio](https://github.com/dyrector-io/dyrectorio/) | engineer who would like to build new and interesting products | swimmer & runner | tech and crypto
 
 web/blog: [orbanlevi.hu](https://orbanlevi.hu)\
